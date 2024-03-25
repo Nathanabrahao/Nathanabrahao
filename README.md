@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular, React**
 
-- 💬 Ask me about **SQL, API**
-
 - 📫 How to reach me **nathanntc6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
