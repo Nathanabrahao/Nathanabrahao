@@ -7,16 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://website-zeta-livid-79.vercel.app/](https://website-zeta-livid-79.vercel.app/)
 
-## Connect with me  
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-abrah%C3%A3o-981209176/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;/>
-</a>
-<a href="https://instagram.com/https://www.instagram.com/nathan.abrahao/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -59,3 +49,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanabrahao&show_icons=true&locale=en&layout=compact" alt="nathanabrahao" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanabrahao&show_icons=true&locale=en" alt="nathanabrahao" /></p>
+
+## Connect with me  
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-abrah%C3%A3o-981209176/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;/>
+</a>
+<a href="https://instagram.com/https://www.instagram.com/nathan.abrahao/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
